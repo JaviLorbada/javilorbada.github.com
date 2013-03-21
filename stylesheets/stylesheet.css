@@ -248,6 +248,29 @@ hr {
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
+#social {
+  height: 32px;
+}
+
+#social li {
+  float: left;
+  padding-right: 20px;
+}
+
+#social li a {
+  width: 32px;
+  height: 32px;
+  display: block;
+  text-indent: -9999px;
+}
+
+#social .twitter a {
+  background: url(../images/icons/social_twitter.png) top left no-repeat;
+}
+#social .linkedin a {
+  background: url(../images/icons/social_linkedin.png) top left no-repeat;
+}
+
 /* Links
    a, a:hover, a:visited
 */
