@@ -23,7 +23,8 @@ Expat in [Amsterdam, Netherlands](http://goo.gl/maps/8uLZ4).
 ##Sample projects##
 
 - [JLGitInfo](https://github.com/JaviLorbada/JLGitInfo)
-- [Xcode-Snippets](https://github.com/JaviLorbada/Xcode-Snippets)
+- [JLXcode-Snippets](https://github.com/JaviLorbada/JLXcode-Snippets)
+- [JLXcode-Templates](https://github.com/JaviLorbada/JLXcode-Templates)
 
 ##Working Experience##
 
