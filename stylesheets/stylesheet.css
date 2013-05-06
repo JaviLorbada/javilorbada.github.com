@@ -136,6 +136,10 @@ h5 a {
   height: 100%;
 }
 
+#experience {
+  padding-top: 60px;
+}
+
 .one-half {
   width: 48%;
   float: left;
