@@ -47,6 +47,11 @@ Expat in [Amsterdam, Netherlands](http://goo.gl/maps/8uLZ4).
 
     Banksphere Developer/Analyst for ISBAN (Banco Santander).
     
+##Presentations##
+
+- [Introduction to Git](https://speakerdeck.com/javilorbada/introduction-to-git)
+- [Introduction to CocoaPods](https://speakerdeck.com/javilorbada/introduction-to-cocoapods)
+
 ## Let's keep in touch! ##
 
 - [Javi Lorbada](mailto:javugi@gmail.com) 
