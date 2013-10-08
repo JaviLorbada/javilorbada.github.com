@@ -18,8 +18,8 @@ Expat in [Amsterdam, Netherlands](http://goo.gl/maps/8uLZ4).
 - [ANWB Fietsen](https://itunes.apple.com/nl/app/anwb-fietsen/id652049119?mt=8)
 - [OHRA Android](https://play.google.com/store/apps/details?id=nl.ohra.android)
 - [OHRA iOS](https://itunes.apple.com/nl/app/ohra/id621240801?l=en&mt=8)
-- [My Stress Coach](https://itunes.apple.com/gb/app/my-stress-coach/id561897282?mt=8) (Officially shutdown.)
-- [PostNL Fotoprinter](https://itunes.apple.com/nl/app/fotoprinter-van-postnl/id550124657?mt=8)
+- [My Stress Coach](https://itunes.apple.com/gb/app/my-stress-coach/id561897282?mt=8)
+- [PostNL Fotoprinter](http://bastha.com/portfolio/?portfolio=postnl-fotoprinter) (Officially shutdown.)
 - [Cabster Android](https://play.google.com/store/apps/details?id=com.connexxion.cabster)
 - [Cabster iOS](https://itunes.apple.com/nl/app/cabster-taxi/id529830927?ls=1)
 
