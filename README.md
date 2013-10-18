@@ -1,4 +1,4 @@
-Javi Lorbada
+Javi Lorbada  [![License MIT](http://b.repl.ca/v1/License-MIT-blue.png)](https://github.com/JaviLorbada/javilorbada.github.com/blob/master/LICENSE)
 ======================
 
 ##Who am I?##
@@ -13,23 +13,17 @@ Working at [@mobilecompany](https://twitter.com/mobilecompany).
 
 Expat in [Amsterdam, Netherlands](http://goo.gl/maps/8uLZ4).
 
-##Recent projects##
+##Projects##
 
-- [ANWB Fietsen](https://itunes.apple.com/nl/app/anwb-fietsen/id652049119?mt=8)
-- [OHRA Android](https://play.google.com/store/apps/details?id=nl.ohra.android)
-- [OHRA iOS](https://itunes.apple.com/nl/app/ohra/id621240801?l=en&mt=8)
-- [My Stress Coach](https://itunes.apple.com/gb/app/my-stress-coach/id561897282?mt=8)
-- [PostNL Fotoprinter](http://bastha.com/portfolio/?portfolio=postnl-fotoprinter) (Officially shutdown.)
-- [Cabster Android](https://play.google.com/store/apps/details?id=com.connexxion.cabster)
-- [Cabster iOS](https://itunes.apple.com/nl/app/cabster-taxi/id529830927?ls=1)
-
-##Open Source##
-
-- [JLTMDbClient](https://github.com/JaviLorbada/JLTMDbClient)
-- [JLXcode-Snippets](https://github.com/JaviLorbada/JLXcode-Snippets)
-- [JLXcode-Templates](https://github.com/JaviLorbada/JLXcode-Templates)
-- [Dotfiles](https://github.com/JaviLorbada/dotfiles)
-- [JLGitInfo](https://github.com/JaviLorbada/JLGitInfo)
+| Recent projects | Open Source |
+| :------------- | -----:|
+| [ANWB Fietsen](https://itunes.apple.com/nl/app/anwb-fietsen/id652049119?mt=8) | [JLTMDbClient](https://github.com/JaviLorbada/JLTMDbClient) |
+| [OHRA Android](https://play.google.com/store/apps/details?id=nl.ohra.android) | [JLXcode-Snippets](https://github.com/JaviLorbada/JLXcode-Snippets) |
+| [OHRA iOS](https://itunes.apple.com/nl/app/ohra/id621240801?l=en&mt=8) | [JLXcode-Templates](https://github.com/JaviLorbada/JLXcode-Templates) |
+| [My Stress Coach](https://itunes.apple.com/gb/app/my-stress-coach/id561897282?mt=8) | [Dotfiles](https://github.com/JaviLorbada/dotfiles) |
+| [PostNL Fotoprinter](http://bastha.com/portfolio/?portfolio=postnl-fotoprinter) (Officially shutdown.) | [JLGitInfo](https://github.com/JaviLorbada/JLGitInfo) |
+| [Cabster Android](https://play.google.com/store/apps/details?id=com.connexxion.cabster) | |
+| [Cabster iOS](https://itunes.apple.com/nl/app/cabster-taxi/id529830927?ls=1) | |
 
 ##Working Experience##
 
