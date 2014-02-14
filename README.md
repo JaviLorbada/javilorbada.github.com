@@ -1,4 +1,4 @@
-Javi Lorbada  [![License MIT](http://b.repl.ca/v1/License-MIT-blue.png)](https://github.com/JaviLorbada/javilorbada.github.com/blob/master/LICENSE)
+Javi Lorbada  
 ======================
 
 ##Who am I?##
@@ -22,8 +22,8 @@ Expat in [Amsterdam, Netherlands](http://goo.gl/maps/8uLZ4).
 | [OHRA iOS](https://itunes.apple.com/nl/app/ohra/id621240801?l=en&mt=8) | [JLXcode-Templates](https://github.com/JaviLorbada/JLXcode-Templates) |
 | [My Stress Coach](https://itunes.apple.com/gb/app/my-stress-coach/id561897282?mt=8) | [Dotfiles](https://github.com/JaviLorbada/dotfiles) |
 | [PostNL Fotoprinter](http://bastha.com/portfolio/?portfolio=postnl-fotoprinter) (Officially shutdown.) | [JLGitInfo](https://github.com/JaviLorbada/JLGitInfo) |
-| [Cabster Android](https://play.google.com/store/apps/details?id=com.connexxion.cabster) | |
-| [Cabster iOS](https://itunes.apple.com/nl/app/cabster-taxi/id529830927?ls=1) | |
+| [Cabster Android](https://play.google.com/store/apps/details?id=com.connexxion.cabster) (Officially shutdown.) | |
+| [Cabster iOS](http://icultu.re/PvYgrk) (Officially shutdown.)| |
 
 ##Working Experience##
 
