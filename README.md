@@ -17,11 +17,13 @@ Expat in [Amsterdam, Netherlands](http://goo.gl/maps/8uLZ4).
 
 | Recent projects | Open Source |
 | :------------- | -----:|
-| [ANWB Fietsen](https://itunes.apple.com/nl/app/anwb-fietsen/id652049119?mt=8) | [JLTMDbClient](https://github.com/JaviLorbada/JLTMDbClient) |
-| [OHRA Android](https://play.google.com/store/apps/details?id=nl.ohra.android) | [JLXcode-Snippets](https://github.com/JaviLorbada/JLXcode-Snippets) |
-| [OHRA iOS](https://itunes.apple.com/nl/app/ohra/id621240801?l=en&mt=8) | [JLXcode-Templates](https://github.com/JaviLorbada/JLXcode-Templates) |
-| [My Stress Coach](https://itunes.apple.com/gb/app/my-stress-coach/id561897282?mt=8) | [Dotfiles](https://github.com/JaviLorbada/dotfiles) |
-| [PostNL Fotoprinter](http://bastha.com/portfolio/?portfolio=postnl-fotoprinter) (Officially shutdown.) | [JLGitInfo](https://github.com/JaviLorbada/JLGitInfo) |
+| [WebTV](https://itunes.apple.com/nl/app/webtv/id852245261?l=en&mt=8)| [JLTMDbClient](https://github.com/JaviLorbada/JLTMDbClient)|
+| [Delta Lloyd](https://itunes.apple.com/nl/app/delta-lloyd/id808769170?mt=8)| [JLXcode-Snippets](https://github.com/JaviLorbada/JLXcode-Snippets) |
+| [ANWB Fietsen](https://itunes.apple.com/nl/app/anwb-fietsen/id652049119?mt=8) | [JLXcode-Templates](https://github.com/JaviLorbada/JLXcode-Templates) |
+| [OHRA Android](https://play.google.com/store/apps/details?id=nl.ohra.android) | [Portfolio](https://github.com/JaviLorbada/javilorbada.github.com)|
+| [OHRA iOS](https://itunes.apple.com/nl/app/ohra/id621240801?l=en&mt=8) | [Dotfiles](https://github.com/JaviLorbada/dotfiles)|
+| [My Stress Coach](https://itunes.apple.com/gb/app/my-stress-coach/id561897282?mt=8) |  |
+| [PostNL Fotoprinter](http://bastha.com/portfolio/?portfolio=postnl-fotoprinter) (Officially shutdown.) | |
 | [Cabster Android](https://play.google.com/store/apps/details?id=com.connexxion.cabster) (Officially shutdown.) | |
 | [Cabster iOS](http://icultu.re/PvYgrk) (Officially shutdown.)| |
 
@@ -50,6 +52,7 @@ Expat in [Amsterdam, Netherlands](http://goo.gl/maps/8uLZ4).
 - [Introduction to Git](https://speakerdeck.com/javilorbada/introduction-to-git)
 - [Introduction to CocoaPods](https://speakerdeck.com/javilorbada/introduction-to-cocoapods)
 - [hello, Git](https://speakerdeck.com/javilorbada/hello-git), Designers can also work with Git.
+- [Automate build and deployment for iOS and Android](https://speakerdeck.com/javilorbada/automate-build-and-deployment-for-ios-and-android)
 
 ## Let's keep in touch! ##
 
