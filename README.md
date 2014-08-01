@@ -9,7 +9,7 @@ Dynamic, open-minded, geek, creative, team worker, self-motivated and maker of m
 
 Music, climb and snowboard fan, loves travelling.
 
-Working at [@mobilecompany](https://twitter.com/mobilecompany).
+Working at [@twc_apps](https://twitter.com/twc_apps).
 
 Expat in [Amsterdam, Netherlands](http://goo.gl/maps/8uLZ4).
 
@@ -29,10 +29,13 @@ Expat in [Amsterdam, Netherlands](http://goo.gl/maps/8uLZ4).
 
 ##Working Experience##
 
+- Mobile Software Developer - [TWC](http://www.twcapps.com/)
+
+	Mobile iOS application development.
+
 - Mobile Software Developer - [The Mobile Company](http://themobilecompany.com/)
 
-    Mobile application development, iOS and Android.
-    Architecture design on the company mobile projects based on different technologies. Internal libraries development. Scrum Methodology. Main responsible of SVN to Git migration, Git server maintenance, Git instructor.
+    Architecture design on the company mobile projects based on different technologies. Internal libraries development. Scrum Methodology. Main responsible of SVN to Git migration. Main responsible for the introduction of build automation and deployment for iOS and Android. Git server maintenance, Git and CI instructor.
 
 - Lead Mobile Software Developer - Papolog (Officially shutdown.)
 
@@ -52,7 +55,11 @@ Expat in [Amsterdam, Netherlands](http://goo.gl/maps/8uLZ4).
 - [Introduction to Git](https://speakerdeck.com/javilorbada/introduction-to-git)
 - [Introduction to CocoaPods](https://speakerdeck.com/javilorbada/introduction-to-cocoapods)
 - [hello, Git](https://speakerdeck.com/javilorbada/hello-git), Designers can also work with Git.
-- [Automate build and deployment for iOS and Android](https://speakerdeck.com/javilorbada/automate-build-and-deployment-for-ios-and-android)
+- [Automate build and deployment for iOS and Android](https://speakerdeck.com/javilorbada/- automate-build-and-deployment-for-ios-and-android)
+
+##Travel Stories##
+
+- [Wild nature](https://www.storehouse.co/stories/t1rmx-wild-nature) 
 
 ## Let's keep in touch! ##
 
